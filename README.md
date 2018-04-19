@@ -1,6 +1,8 @@
 # R tutorial part 1
 ### Access the [google slides presentation here](https://docs.google.com/presentation/d/1gwNqjNTwOegzTC8IRL_Kmyowd-RJnM27VCPl95fxeZs/edit?usp=sharing)
 
+### [Link to part 2](https://github.com/wescaiju/R_tutorial_part_2/)
+
 ### Start your engines.
 ```r
 # Last Updated: 180405
