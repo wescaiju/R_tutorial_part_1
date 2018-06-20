@@ -3,6 +3,11 @@
 
 ### [Link to part 2](https://github.com/wescaiju/R_tutorial_part_2/)
 
+### How to install latest version of R
+1. Go to [R website](https://cran.r-project.org)
+2. For Windows, click "Download R for Windows" then "base" then "Download R 3.5.0 for Windows" and follow installation instructions.
+3. For MacOS, click "Download R for (Mac) OS X" then "R-3.5.0.pkg" and follow installation instructions.
+
 ### Start your engines.
 ```r
 # Last Updated: 180405
