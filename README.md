@@ -3,6 +3,11 @@
 
 ### [Link to part 2](https://github.com/wescaiju/R_tutorial_part_2/)
 
+## Valuable R tutorials (listed in order of preference)
+1. [Harvard course](https://www.edx.org/course/data-science-r-basics)
+2. [Swirl, learn R within R studio](https://swirlstats.com)
+3. [Datacamp](https://www.datacamp.com)
+
 ### How to install latest version of R
 1. Go to [R website](https://cran.r-project.org)
 2. For Windows, click "Download R for Windows" then "base" then "Download R 3.5.0 for Windows" and follow installation instructions.
